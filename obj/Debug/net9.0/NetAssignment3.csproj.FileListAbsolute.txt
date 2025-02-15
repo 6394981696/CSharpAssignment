@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\bin\Debug\net9.0\NetAssignment3.exe
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\bin\Debug\net9.0\NetAssignment3.deps.json
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\bin\Debug\net9.0\NetAssignment3.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\bin\Debug\net9.0\NetAssignment3.dll
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\bin\Debug\net9.0\NetAssignment3.pdb
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\obj\Debug\net9.0\NetAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\obj\Debug\net9.0\NetAssignment3.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\obj\Debug\net9.0\NetAssignment3.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\obj\Debug\net9.0\NetAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\obj\Debug\net9.0\NetAssignment3.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\obj\Debug\net9.0\NetAssignment3.dll
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\obj\Debug\net9.0\refint\NetAssignment3.dll
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\obj\Debug\net9.0\NetAssignment3.pdb
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\obj\Debug\net9.0\NetAssignment3.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\CSharpAssignment\NetAssignment3\obj\Debug\net9.0\ref\NetAssignment3.dll
